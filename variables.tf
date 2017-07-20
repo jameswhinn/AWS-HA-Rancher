@@ -18,3 +18,4 @@ variable "asg_min" {}
 variable "asg_max" {}
 variable "asg_desired" {}
 variable "subnets" {}
+variable "domain" {}

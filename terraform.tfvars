@@ -30,3 +30,5 @@ tag_name           = "rancher-ha" # servername prefix
 asg_min            = "3"
 asg_max            = "3"
 asg_desired        = "3"
+
+domain             = ""
